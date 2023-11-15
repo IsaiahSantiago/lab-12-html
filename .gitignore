@@ -1,3 +1,10 @@
+# MacOS specific files
+# .DS_Store  --> Mac system file that stores attributes of its folder
+# Worka as a desktop service storage
+# ** /. DS_Store
+# Mac system will make DS files 
+
+
 # Prerequisites
 *.d
 
