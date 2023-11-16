@@ -1,0 +1,36 @@
+p {
+    color:#0000ff; 
+    font-size: 12px;
+    text-decoration: line-through;
+
+}
+
+h1 {
+
+ color: #008000;
+ text-transform: uppercase;
+
+}
+
+    h1,h2,h3,h4,h5,h6 {
+        background-color: #888888;
+
+}
+
+
+body {
+    font-family: sans-serif;
+
+}
+
+#mydiv {
+    border: 1px solid black;
+    background-color: salmon;
+}
+
+.myclass {
+    background-color: gold;
+
+
+}
+
